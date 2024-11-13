@@ -11128,11 +11128,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_GARDEVOIR] =
     {
-        .baseHP        = 68,
+        .baseHP        = 70,
         .baseAttack    = 65,
         .baseDefense   = 65,
-        .baseSpeed     = 80,
-        .baseSpAttack  = 145,
+        .baseSpeed     = 90,
+        .baseSpAttack  = 135,
         .baseSpDefense = 115,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 45,
