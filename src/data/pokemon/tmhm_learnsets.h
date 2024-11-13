@@ -10179,5 +10179,8 @@ const union {
         .SNATCH = TRUE,
         .FLASH = TRUE,
     } },
+    [SPECIES_WOBBIGGET] = { .learnset = {
+    } },
+
 
 };
