@@ -1790,6 +1790,7 @@ static const u8 sMonFrontAnimIdsTable[NUM_SPECIES - 1] =
     [SPECIES_JIRACHI - 1]     = ANIM_SWING_CONVEX,
     [SPECIES_DEOXYS - 1]      = ANIM_H_PIVOT,
     [SPECIES_CHIMECHO - 1]    = ANIM_H_SLIDE_WOBBLE,
+    [SPECIES_WOBBIGGET - 1]   = ANIM_V_SQUISH_AND_BOUNCE,
 };
 
 static const u8 sMonAnimationDelayTable[NUM_SPECIES - 1] =
@@ -1849,6 +1850,7 @@ static const u8 sMonAnimationDelayTable[NUM_SPECIES - 1] =
     [SPECIES_SALAMENCE - 1]  = 70,
     [SPECIES_KYOGRE - 1]     = 60,
     [SPECIES_RAYQUAZA - 1]   = 60,
+    [SPECIES_WOBBIGGET - 1]  = 10,
 };
 
 #define PP_UP_SHIFTS(val)           val,        (val) << 2,        (val) << 4,        (val) << 6
