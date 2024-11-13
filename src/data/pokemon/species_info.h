@@ -10108,7 +10108,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_WYNAUT] =
     {
-        .baseHP        = 95,
+        .baseHP        = 140,
         .baseAttack    = 23,
         .baseDefense   = 48,
         .baseSpeed     = 23,
