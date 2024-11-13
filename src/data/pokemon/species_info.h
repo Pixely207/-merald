@@ -6068,7 +6068,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_WOBBUFFET] =
     {
-        .baseHP        = 255,
+        .baseHP        = 200,
         .baseAttack    = 33,
         .baseDefense   = 58,
         .baseSpeed     = 33,
