@@ -393,6 +393,7 @@ enum {
     NATIONAL_DEX_RAYQUAZA,
     NATIONAL_DEX_JIRACHI,
     NATIONAL_DEX_DEOXYS,
+    NATIONAL_DEX_WOBBIGGET,
     // Old Unown
     NATIONAL_DEX_OLD_UNOWN_B,
     NATIONAL_DEX_OLD_UNOWN_C,
@@ -630,6 +631,7 @@ enum {
     HOENN_DEX_RAYQUAZA,
     HOENN_DEX_JIRACHI,
     HOENN_DEX_DEOXYS,
+    HOENN_DEX_WOBBIGGET,
     // End of Hoenn Dex (see HOENN_DEX_COUNT)
     // Here below have values but are excluded from the Pokédex
     HOENN_DEX_BULBASAUR,
