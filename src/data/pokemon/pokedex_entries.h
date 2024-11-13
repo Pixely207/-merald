@@ -4643,4 +4643,15 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 290,
         .trainerOffset = 2,
     },
+    [NATIONAL_DEX_WOBBIGGET] =
+    {
+        .categoryName = _("PATIENT"),
+        .height = 18,
+        .weight = 385,
+        .description = gWobbiggetPokedexText,
+        .pokemonScale = 274,
+        .pokemonOffset = 4,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
 };
