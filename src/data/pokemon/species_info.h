@@ -11068,12 +11068,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_RALTS] =
     {
-        .baseHP        = 28,
-        .baseAttack    = 25,
-        .baseDefense   = 25,
-        .baseSpeed     = 40,
+        .baseHP        = 50,
+        .baseAttack    = 45,
+        .baseDefense   = 45,
+        .baseSpeed     = 60,
         .baseSpAttack  = 65,
-        .baseSpDefense = 35,
+        .baseSpDefense = 55,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 235,
         .expYield = 70,
