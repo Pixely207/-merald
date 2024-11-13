@@ -2319,3 +2319,9 @@ const u8 gDeoxysPokedexText[] = _(
     "extraterrestrial virus exposed to a laser\n"
     "beam. Its body is configured for superior\n"
     "agility and speed.");
+
+const u8 gWobbiggetPokedexText[] = _(
+    "Usually docile, a WOBBIGGET strikes back\n"
+    "ferociously if its black tail is attacked.\n"
+    "It makes its lair in caves where it waits\n"
+    "for nightfall.");
