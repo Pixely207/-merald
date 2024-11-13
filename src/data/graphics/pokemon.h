@@ -2712,6 +2712,13 @@ const u32 gMonShinyPalette_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/sh
 const u8 gMonIcon_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/icon.4bpp");
 const u8 gMonFootprint_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/footprint.1bpp");
 
+const u32 gMonStillFrontPic_Wobbigget[] = INCBIN_U32("graphics/pokemon/wobbuffet/front.4bpp.lz");
+const u32 gMonPalette_Wobbigget[] = INCBIN_U32("graphics/pokemon/wobbuffet/normal.gbapal.lz");
+const u32 gMonBackPic_Wobbigget[] = INCBIN_U32("graphics/pokemon/wobbuffet/back.4bpp.lz");
+const u32 gMonShinyPalette_Wobbigget[] = INCBIN_U32("graphics/pokemon/wobbuffet/shiny.gbapal.lz");
+const u8 gMonIcon_Wobbigget[] = INCBIN_U8("graphics/pokemon/wobbuffet/icon.4bpp");
+const u8 gMonFootprint_Wobbigget[] = INCBIN_U8("graphics/pokemon/wobbuffet/footprint.1bpp");
+
 const u32 gMonStillFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/front.4bpp.lz");
 const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
 
