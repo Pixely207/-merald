@@ -11665,7 +11665,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
     },
-    [SPECIES_WOBBUFFET] =
+    [SPECIES_WOBBIGGET] =
     {
         .baseHP        = 255,
         .baseAttack    = 43,
