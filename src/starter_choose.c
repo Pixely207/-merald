@@ -114,7 +114,7 @@ static const u16 sStarterMon[STARTER_MON_COUNT] =
 {
     SPECIES_PIKACHU,
     SPECIES_RALTS,
-    SPECIES_WOBBUFFET,
+    SPECIES_WYNAUT,
 };
 
 static const struct BgTemplate sBgTemplates[3] =
