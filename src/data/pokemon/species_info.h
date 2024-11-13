@@ -758,11 +758,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_PIKACHU] =
     {
-        .baseHP        = 35,
-        .baseAttack    = 55,
+        .baseHP        = 45,
+        .baseAttack    = 65,
         .baseDefense   = 30,
         .baseSpeed     = 90,
-        .baseSpAttack  = 50,
+        .baseSpAttack  = 65,
         .baseSpDefense = 40,
         .types = { TYPE_ELECTRIC, TYPE_ELECTRIC },
         .catchRate = 190,
@@ -788,11 +788,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_RAICHU] =
     {
-        .baseHP        = 60,
-        .baseAttack    = 90,
+        .baseHP        = 70,
+        .baseAttack    = 100,
         .baseDefense   = 55,
         .baseSpeed     = 100,
-        .baseSpAttack  = 90,
+        .baseSpAttack  = 100,
         .baseSpDefense = 80,
         .types = { TYPE_ELECTRIC, TYPE_ELECTRIC },
         .catchRate = 75,
@@ -6068,7 +6068,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_WOBBUFFET] =
     {
-        .baseHP        = 190,
+        .baseHP        = 255,
         .baseAttack    = 33,
         .baseDefense   = 58,
         .baseSpeed     = 33,
@@ -11072,7 +11072,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack    = 25,
         .baseDefense   = 25,
         .baseSpeed     = 40,
-        .baseSpAttack  = 45,
+        .baseSpAttack  = 65,
         .baseSpDefense = 35,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 235,
@@ -11102,7 +11102,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack    = 35,
         .baseDefense   = 35,
         .baseSpeed     = 50,
-        .baseSpAttack  = 65,
+        .baseSpAttack  = 95,
         .baseSpDefense = 55,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 120,
@@ -11132,7 +11132,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack    = 65,
         .baseDefense   = 65,
         .baseSpeed     = 80,
-        .baseSpAttack  = 125,
+        .baseSpAttack  = 145,
         .baseSpDefense = 115,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 45,
