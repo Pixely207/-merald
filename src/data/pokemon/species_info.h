@@ -788,12 +788,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_RAICHU] =
     {
-        .baseHP        = 70,
+        .baseHP        = 65,
         .baseAttack    = 100,
-        .baseDefense   = 55,
+        .baseDefense   = 60,
         .baseSpeed     = 100,
         .baseSpAttack  = 100,
-        .baseSpDefense = 80,
+        .baseSpDefense = 90,
         .types = { TYPE_ELECTRIC, TYPE_ELECTRIC },
         .catchRate = 75,
         .expYield = 122,
