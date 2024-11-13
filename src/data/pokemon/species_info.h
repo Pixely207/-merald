@@ -11098,12 +11098,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_KIRLIA] =
     {
-        .baseHP        = 38,
-        .baseAttack    = 35,
-        .baseDefense   = 35,
-        .baseSpeed     = 50,
-        .baseSpAttack  = 95,
-        .baseSpDefense = 55,
+        .baseHP        = 60,
+        .baseAttack    = 55,
+        .baseDefense   = 55,
+        .baseSpeed     = 70,
+        .baseSpAttack  = 85,
+        .baseSpDefense = 75,
         .types = { TYPE_PSYCHIC, TYPE_PSYCHIC },
         .catchRate = 120,
         .expYield = 140,
